@@ -11,7 +11,7 @@ Omar Guerra
 
 ## What it does --- Users are able to upload an image of a dish and Cultura will determine where the dish comes from and include a short excerpt about the culture.
 
-## How I built it --- Cultura was built with Android studio, the Google Vision API, and the Wikipedia API
+## How I built it --- Cultura was built using Java and Gradle with Android studio, the Google Vision API, and the Wikipedia API
 
 ## Challenges I ran into --- The app was originally supposed to be a react/node web app, but node was giving us issues with Google Vision API since it is still in beta, so we decided to use the more stable Android Studio version
 
